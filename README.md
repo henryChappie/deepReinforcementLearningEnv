@@ -6,13 +6,16 @@ Use deepMind's StarCraft &amp; openai's Universe platform for resarch for Deep R
 所以在这里，我写下这篇文档，这篇文章主要是为对深度强换学习环境的搭建过程做一个教程和说明，对与深度强换学习，如果您想学习，请查看资源推荐。
 
 
-ubuntu镜像下载地址：<br>
+Ubuntu镜像下载地址：<br>
 <ul>
 <li><a href='http://mirrors.163.com/'>网易镜像/</a></li>
 <li><a href="https://www.ubuntu.com/download/desktop">官网</a></li>
 <li><a href="https://cn.ubuntu.com/">中文官网</a></li>
+</ul>
 
+<a href="https://www.virtualbox.org/">Oralce VirtualBox下载</a>
 
+当然，如果您只想安装OpenAI的Universe，如果您的计算机系统支持的话，我建议您使用<a href="https://www.docker.com/">Docker</a>进行安装
 
 
 
