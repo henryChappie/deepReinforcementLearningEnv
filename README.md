@@ -8,9 +8,9 @@ Use deepMind's StarCraft &amp; openai's Universe platform for resarch for Deep R
 
 ubuntu镜像下载地址：<br>
 <ul>
-<li><a href='http://mirrors.163.com/'>网易镜像/</a><li>
-<li><a href="https://www.ubuntu.com/download/desktop">官网</a><li>
-<li><a href="https://cn.ubuntu.com/">中文官网</a><li>
+<li><a href='http://mirrors.163.com/'>网易镜像/</a></li>
+<li><a href="https://www.ubuntu.com/download/desktop">官网</a></li>
+<li><a href="https://cn.ubuntu.com/">中文官网</a></li>
 
 
 
