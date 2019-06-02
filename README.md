@@ -1,5 +1,5 @@
 # deepReinformanceLearningEnv
-Use deepMind's StarCraft &amp; openai's Universe for resarch for Deep ReinformanceLearning by Use Ubuntu in VirtualBox
+Use deepMind's StarCraft &amp; openai's Universe platform for resarch for Deep ReinformanceLearning by Use Ubuntu in VirtualBox
 
 近些年来，人工智能得到了飞速的发展，特别是在机器学习领域里面的深度学习在当今时代的发展之下得到了重大的突破。作为一个开发者与技术爱好者，我同样觉得你可能会想加入到这项研究一面。
 
