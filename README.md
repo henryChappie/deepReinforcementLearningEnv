@@ -14,7 +14,7 @@ Ubuntu镜像下载地址：<br>
 </ul>
 
 虚拟机盒软件下载地址：<br>
-<a href="https://www.virtualbox.org/">Oralce VirtualBox下载</a>
+<a href="https://www.virtualbox.org/">Oralce VirtualBox下载</a><br>
 特别提醒：<br>
 当然，如果您的电脑硬件条件有限或者您不想通过虚拟机的方式安装，我建议您使用<a href="https://www.docker.com/">Docker</a>进行安装，docker是一个轻量级的容器，通过docker，你也可以实现，不过由于docker的网络很不稳定，所以我选择使用虚拟机的方式来进行安装。
 <h2>1.安装virtualbox</h2>
