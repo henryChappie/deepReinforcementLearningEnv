@@ -38,3 +38,5 @@ Ubuntu镜像下载地址：<br>
 <img src='https://github.com/openai/universe/raw/master/doc/dusk-drive.png?raw=true'/><hr>
 <h3>DeepMind StarCraftⅡ</h3>
 <img src='https://camo.githubusercontent.com/6b0acc455296708c6ed72a470f664a12b28fc558/687474703a2f2f696d672e796f75747562652e636f6d2f76692f364c343438796730536d302f302e6a7067'/>
+<img src='https://camo.githubusercontent.com/6b0acc455296708c6ed72a470f664a12b28fc558/687474703a2f2f696d672e796f75747562652e636f6d2f76692f364c343438796730536d302f302e6a7067'/>
+<img src='https://camo.githubusercontent.com/accc9e7cdf401c0f6ba7bbc0a1027dc7b9bfbd05/687474703a2f2f696d672e796f75747562652e636f6d2f76692f57454f7a696465355846632f302e6a7067'/>
