@@ -36,7 +36,26 @@ Ubuntu镜像下载地址：<br>
 <hr>
 <h3>OpenAI Universe</h3>
 <img src='https://github.com/openai/universe/raw/master/doc/dusk-drive.png?raw=true'/><hr>
+
+
 <h3>DeepMind StarCraftⅡ</h3>
-<img src='https://camo.githubusercontent.com/6b0acc455296708c6ed72a470f664a12b28fc558/687474703a2f2f696d672e796f75747562652e636f6d2f76692f364c343438796730536d302f302e6a7067'/>
-<img src='https://camo.githubusercontent.com/6b0acc455296708c6ed72a470f664a12b28fc558/687474703a2f2f696d672e796f75747562652e636f6d2f76692f364c343438796730536d302f302e6a7067'/>
-<img src='https://camo.githubusercontent.com/accc9e7cdf401c0f6ba7bbc0a1027dc7b9bfbd05/687474703a2f2f696d672e796f75747562652e636f6d2f76692f57454f7a696465355846632f302e6a7067'/>
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=-fKUyT14G-8"
+     target="_blank">
+    <img src="http://img.youtube.com/vi/-fKUyT14G-8/0.jpg"
+         alt="DeepMind open source PySC2 toolset for Starcraft II"
+         width="240" height="180" border="10" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=6L448yg0Sm0"
+     target="_blank">
+    <img src="http://img.youtube.com/vi/6L448yg0Sm0/0.jpg"
+         alt="StarCraft II 'mini games' for AI research"
+         width="240" height="180" border="10" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=WEOzide5XFc"
+     target="_blank">
+    <img src="http://img.youtube.com/vi/WEOzide5XFc/0.jpg"
+         alt="Trained and untrained agents play StarCraft II 'mini-game'"
+         width="240" height="180" border="10" />
+  </a>
+</div>
