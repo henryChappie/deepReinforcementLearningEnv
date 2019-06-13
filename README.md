@@ -32,3 +32,9 @@ Ubuntu镜像下载地址：<br>
 然后：Ctrl+Alt+F7再次进入图形化界面，再次输入密码方可进入<br>
 注意：在终端执行命令时，最好以root身份(sudo su)，以免频繁输入密码过于麻烦
 代码编辑器在Download/Subline下，您可以执行通过./执行文件打开编辑器。
+
+<hr>
+<h3>OpenAI Universe</h3>
+<img src='https://github.com/openai/universe/raw/master/doc/dusk-drive.png?raw=true'/><hr>
+<h3>DeepMind StarCraftⅡ</h3>
+<img src='https://camo.githubusercontent.com/6b0acc455296708c6ed72a470f664a12b28fc558/687474703a2f2f696d672e796f75747562652e636f6d2f76692f364c343438796730536d302f302e6a7067'/>
